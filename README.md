@@ -14,3 +14,6 @@ Pesan: Semoga INTRIVIA ke depannya semakin baik, semakin kompak, dan terus mengh
 [Kesan: Sejauh ini, Cluster 7 menjadi tempat yang seru untuk belajar, berproses, dan saling mengenal satu sama lain. Walaupun mungkin ada perbedaan pendapat dan tantangan selama menjalani kegiatan, semuanya menjadi pengalaman berharga untuk membangun kekompakan dan kebersamaan.
 
 Pesan: Semoga Cluster 7 ke depannya semakin kompak, solid, dan bisa saling mendukung satu sama lain. Tetap jaga komunikasi, rasa kekeluargaan, dan semangatnya sampai akhir. Semoga kita semua bisa tumbuh bersama dan menciptakan banyak kenangan baik selama di INTRIVIA!.]
+
+## Harapan Kuliah
+[Harapan aku selama kuliah adalah bisa berkembang menjadi pribadi yang lebih baik, baik dari segi ilmu, kemampuan, maupun cara berpikir. Aku ingin memperdalam ilmu di bidang teknologi, terutama programming, ikut organisasi, menambah relasi, dan mencoba banyak hal baru. Aku juga berharap bisa membuat proyek-proyek yang bermanfaat dan tentunya bisa semakin dekat dengan cita-cita aku untuk menjadi programmer yang hebat dan berkarier di perusahaan teknologi internasional]
